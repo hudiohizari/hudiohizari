@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Android Apps], [React Native Apps], and[React Apps]
+I’m currently working on Android Apps, React Native Apps, and React Apps
+I’m currently learning React JS/Native, and Swift
 
 <!--
 **hudiohizari/hudiohizari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
