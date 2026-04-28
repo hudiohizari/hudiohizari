@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm Hudio Hizari 👋</h1>
-  <h3>Senior Software Engineer | Mobile & Full-Stack Developer</h3>
+  <h3>Senior Software Engineer | Mobile & Full-Stack</h3>
   <p>6+ years of experience shipping production mobile and full-stack systems.</p>
 
   <p>
-    <a href="https://hizari.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-hizari.my.id-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
-    <a href="https://linkedin.com/in/Hizari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Hizari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:hhizari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-hhizari@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+    <a href="https://hizari.my.id"><img src="https://img.shields.io/badge/Website-hizari.my.id-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+    <a href="https://linkedin.com/in/Hizari"><img src="https://img.shields.io/badge/LinkedIn-Hizari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:hhizari@gmail.com"><img src="https://img.shields.io/badge/Email-hhizari@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 </div>
 
@@ -19,7 +19,7 @@ I am a Senior Software Engineer specializing in mobile development with strong f
 - 💼 Currently working on high-performance Android, React Native, and React applications.
 - 🛠️ Tech Stack: **Kotlin, Jetpack Compose, React Native, React, TypeScript, and Node.js.**
 - 🌱 Always exploring new technologies to build better and more efficient software systems.
-- 🌐 Check out my complete portfolio at <a href="https://hizari.my.id" target="_blank">hizari.my.id</a>.
+- 🌐 Check out my complete portfolio at [hizari.my.id](https://hizari.my.id).
 
 ---
 
