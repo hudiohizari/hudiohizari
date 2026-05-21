@@ -26,13 +26,19 @@ I am a Senior Software Engineer specializing in mobile development with strong f
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudiohizari&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hudiohizari&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudiohizari&theme=default&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hudiohizari&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hudiohizari&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hudiohizari&layout=compact&theme=default&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
