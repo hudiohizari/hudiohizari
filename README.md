@@ -32,7 +32,7 @@ I am a Senior Software Engineer specializing in mobile development with strong f
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudiohizari&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hudiohizari&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
 </div>
 
 ---
