@@ -1,12 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Hudio Hizari 👋</h1>
-  <h3>Senior Software Engineer | Mobile & Full-Stack</h3>
-  <p>6+ years of experience shipping production mobile and full-stack systems.</p>
+  <h3>I build things for mobile and web</h3>
 
   <p>
-    <a href="https://hizari.my.id"><img src="https://img.shields.io/badge/Website-hizari.my.id-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
-    <a href="https://linkedin.com/in/Hizari"><img src="https://img.shields.io/badge/LinkedIn-Hizari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:hhizari@gmail.com"><img src="https://img.shields.io/badge/Email-hhizari@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+    <a href="https://hizari.my.id"><img src="https://img.shields.io/badge/Website-hizari.my.id-0d0f14?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/Hizari"><img src="https://img.shields.io/badge/LinkedIn-Hizari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:hhizari@gmail.com"><img src="https://img.shields.io/badge/Email-hhizari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -14,12 +13,11 @@
 
 ### 👨‍💻 About Me
 
-I am a Senior Software Engineer specializing in mobile development with strong full-stack capabilities. I have a proven track record of scaling robust mobile applications and building scalable web services.
+Hi! I'm Hudio. I'm a software engineer who enjoys building things. Over the last 6+ years, I've spent my time developing native mobile apps, cross-platform apps, and full-stack web applications.
 
-- 💼 Currently working on high-performance Android, React Native, and React applications.
-- 🛠️ Tech Stack: **Kotlin, Jetpack Compose, React Native, React, TypeScript, and Node.js.**
-- 🌱 Always exploring new technologies to build better and more efficient software systems.
-- 🌐 Check out my complete portfolio at [hizari.my.id](https://hizari.my.id).
+- 🛠️ Tech stack: **Kotlin, Jetpack Compose, React Native, React, TypeScript, and Node.js.**
+- 🌱 Always learning, exploring new technologies, and trying to write cleaner code.
+- 🌐 Check out my full interactive portfolio at [hizari.my.id](https://hizari.my.id).
 
 ---
 
