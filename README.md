@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Hudio Hizari 👋</h1>
-  <h3>I build things for mobile and web</h3>
+  <h3>I build things, mostly on Android</h3>
 
   <p>
     <a href="https://hizari.my.id"><img src="https://img.shields.io/badge/Website-hizari.my.id-0d0f14?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm Hudio. I'm a software engineer who enjoys building things. Over the last 6+ years, I've spent my time developing native mobile apps, cross-platform apps, and full-stack web applications.
+Hi! I'm Hudio. I'm a software engineer who enjoys building things. Over the last 7+ years, I've spent most of my time on Android, but I also enjoy working across the stack when the project calls for it.
 
 - 🛠️ Tech stack: **Kotlin, Jetpack Compose, React Native, React, TypeScript, and Node.js.**
 - 🌱 Always learning, exploring new technologies, and trying to write cleaner code.
