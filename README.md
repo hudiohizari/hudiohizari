@@ -3,7 +3,7 @@
   <h3>I build things, mostly on Android</h3>
 
   <p>
-    <a href="https://hizari.my.id"><img src="https://img.shields.io/badge/Website-hizari.my.id-0d0f14?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://hizari.dev"><img src="https://img.shields.io/badge/Website-hizari.dev-0d0f14?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://linkedin.com/in/Hizari"><img src="https://img.shields.io/badge/LinkedIn-Hizari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:hhizari@gmail.com"><img src="https://img.shields.io/badge/Email-hhizari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -17,7 +17,7 @@ Hi! I'm Hudio. I'm a software engineer who enjoys building things. Over the last
 
 - 🛠️ Tech stack: **Kotlin, Jetpack Compose, React Native, React, TypeScript, and Node.js.**
 - 🌱 Always learning, exploring new technologies, and trying to write cleaner code.
-- 🌐 Check out my full interactive portfolio at [hizari.my.id](https://hizari.my.id).
+- 🌐 Check out my full interactive portfolio at [hizari.dev](https://hizari.dev).
 
 ---
 
