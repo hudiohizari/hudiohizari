@@ -25,8 +25,8 @@ Hi! I'm Hudio. I'm a software engineer who enjoys building things. Over the last
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hudiohizari&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudiohizari&theme=default&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hudiohizari&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&timezone=Asia/Jakarta" />
+    <img src="https://streak-stats.demolab.com/?user=hudiohizari&theme=default&hide_border=true&title_color=58A6FF&icon_color=58A6FF&timezone=Asia/Jakarta" alt="GitHub Streak" width="48%" />
   </picture>
 </div>
 
